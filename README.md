@@ -1,5 +1,5 @@
 # Loireat
-**Loireat** est une application qui aide à trouver un endroit où manger.
+**Loireat** est une application qui aide à trouver un endroit où manger dans la région **Pays de la Loire**, France.
 
 <img src="https://raw.githubusercontent.com/marktr11/Loireat/master/www/Logo_Loi%20(1).png" alt="Texte alternatif de l'image" width="50%" />
 
