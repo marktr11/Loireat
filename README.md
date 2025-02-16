@@ -25,6 +25,7 @@ Vous pouvez voir une démonstration de l'application en vidéo ici :
 ### Objectifs :
 - Faciliter la recherche de restaurants en fonction des préférences géographiques et culinaires.
 - Offrir une expérience fluide avec toutes les informations nécessaires pour prendre une décision éclairée sur l'endroit où manger.
+
 [Voir Code](https://github.com/marktr11/Loireat/blob/master/Application.R)
 
 ### Datasets :
