@@ -1,6 +1,9 @@
 # Loireat
 **Loireat** est une application qui aide à trouver un endroit où manger.
 
+![Texte alternatif de l'image](https://github.com/marktr11/Loireat/blob/master/www/Logo_Loi%20(1).png)
+
+
 ### Fonctionnalités :
 L'application permet de rechercher des restaurants en fonction de critères comme :
 - Le département
