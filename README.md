@@ -1,7 +1,8 @@
 # Loireat
 **Loireat** est une application qui aide à trouver un endroit où manger.
 
-<img src="https://github.com/marktr11/Loireat/blob/master/www/Logo_Loi%20(1).png" alt="Texte alternatif de l'image" width="50%" />
+<img src="https://raw.githubusercontent.com/marktr11/Loireat/master/www/Logo_Loi%20(1).png" alt="Texte alternatif de l'image" width="50%" />
+
 
 
 ### Fonctionnalités :
