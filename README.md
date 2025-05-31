@@ -18,9 +18,6 @@ Elle fournit également des informations détaillées telles que :
 - Les modes de paiement acceptés
 - Et un accès à la carte du restaurant.
 
-### Demo :
-Vous pouvez voir une démonstration de l'application en vidéo ici :  
-[Voir la vidéo de démonstration](https://github.com/marktr11/Loireat/blob/master/www/Screen%20Recording%202025-02-16%20105643.mp4)
 
 ### Objectifs :
 - Faciliter la recherche de restaurants en fonction des préférences géographiques et culinaires.
